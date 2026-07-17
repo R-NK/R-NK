@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/R-NK/R-NK/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/R-NK/R-NK/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)
-```
-
-    
