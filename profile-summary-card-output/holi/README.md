@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/R-NK/R-NK/master/profile-summary-card-output/holi/2-most-commit-language.svg)
-```
-
-    
